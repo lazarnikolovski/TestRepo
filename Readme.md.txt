@@ -1,1 +1,1 @@
-Test test test
+Ok, let's see if the stored credentials work as they shold now.
